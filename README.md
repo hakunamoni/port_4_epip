@@ -25,4 +25,4 @@ to install bundles
 
 ## Running Results
 
-(Unable to share more details)
+(Not allowed to share more details)
